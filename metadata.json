@@ -1,0 +1,6 @@
+{
+  "name": "Omitek Flash Tool",
+  "description": "الموقع الرسمي لتحميل أداة تفليش وإصلاح الهواتف الذكية بمعالجات ميديا تيك (MTK) - Official download and landing page for Omitek MTK Flash Tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
